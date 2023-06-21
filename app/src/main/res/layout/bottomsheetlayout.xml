@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:id="@+id/coordinator">
+
+    <LinearLayout
+         android:layout_height="match_parent"
+         android:layout_width="match_parent"
+         android:gravity="center_horizontal"
+         android:orientation="vertical">
+
+        <TextView
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:textSize="20dp"
+             android:layout_marginTop="20dp"
+             android:text="About" />
+
+        <LinearLayout
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_marginBottom="20dp"
+             android:orientation="horizontal"
+             android:layout_marginTop="40dp">
+
+            <ImageView
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:src="@drawable/git"
+                 android:layout_marginLeft="20dp"
+                 android:layout_marginRight="20dp"
+                 android:id="@+id/GIT" />
+
+            <ImageView
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:src="@drawable/insta"
+                 android:layout_marginLeft="20dp"
+                 android:layout_marginRight="20dp"
+                 android:id="@+id/Insta" />
+
+            <ImageView
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:src="@drawable/linkedin"
+                 android:layout_marginLeft="20dp"
+                 android:layout_marginRight="20dp"
+                 android:id="@+id/Linked" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

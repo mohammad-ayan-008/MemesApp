@@ -1,0 +1,112 @@
+{
+    "logs": [
+        {
+            "outputFile": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-mergeDebugResources-30:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/6ee18d53baec52e80fa4b6f3bc1f2f20/transformed/material-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1179,1254,1365,1454,1555,1662,1769,1868,1971,2059,2183,2285,2387,2503,2605,2719,2847,2963,3085,3221,3341,3475,3595,3707,3922,4039,4163,4293,4415,4553,4687,4803",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1249,1360,1449,1550,1657,1764,1863,1966,2054,2178,2280,2382,2498,2600,2714,2842,2958,3080,3216,3336,3470,3590,3702,3828,4034,4158,4288,4410,4548,4682,4798,4918"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2825ff824b8a9cb3c48067e9dc135910/transformed/appcompat-1.4.2/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,3833",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,3917"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/MemeHouse/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "708"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1174"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.memehouse.app-mergeDebugResources-30:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/6ee18d53baec52e80fa4b6f3bc1f2f20/transformed/material-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,62,63,64,65,66,67,68,69",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2880,2955,3066,3155,3256,3363,3470,3569,3672,3760,3884,3986,4088,4204,4306,4420,4548,4664,4786,4922,5042,5176,5296,5408,5623,5740,5864,5994,6116,6254,6388,6504",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "2950,3061,3150,3251,3358,3465,3564,3667,3755,3879,3981,4083,4199,4301,4415,4543,4659,4781,4917,5037,5171,5291,5403,5529,5735,5859,5989,6111,6249,6383,6499,6619"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2825ff824b8a9cb3c48067e9dc135910/transformed/appcompat-1.4.2/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "30,31,32,33,34,35,36,61",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2248,2318,2402,2486,2582,2684,2786,5534",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "2313,2397,2481,2577,2679,2781,2875,5618"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/MemeHouse/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "7",
+                        "startOffsets": "103",
+                        "endLines": "29",
+                        "endColumns": "12",
+                        "endOffsets": "2291"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "29",
+                        "endColumns": "12",
+                        "endOffsets": "2243"
+                    }
+                }
+            ]
+        }
+    ]
+}

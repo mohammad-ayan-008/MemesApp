@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meme House</string>
+    <string name="N_close">Close</string>
+   <string name="N_Open">Open</string>
+</resources>

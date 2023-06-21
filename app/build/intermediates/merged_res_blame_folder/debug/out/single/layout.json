@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-mergeDebugResources-31:/layout/head.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/head.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-mergeDebugResources-31:/layout/memeslayout.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/memeslayout.xml"
+    },
+    {
+        "merged": "com.example.memehouse.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.memehouse.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-mergeDebugResources-31:/layout/layout_g_login.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/layout_g_login.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-mergeDebugResources-31:/layout/textlayout.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/textlayout.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-mergeDebugResources-31:/layout/bottomsheetlayout.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/bottomsheetlayout.xml"
+    }
+]

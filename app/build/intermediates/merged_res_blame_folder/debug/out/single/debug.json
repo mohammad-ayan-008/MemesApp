@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_logo.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memehouse.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.memehouse.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.memehouse.app-merged_res-32:/drawable_headerback.xml.flat",
+        "source": "com.example.memehouse.app-main-34:/drawable/headerback.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/layout_textlayout.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/textlayout.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/anim_fade.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/anim/fade.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/layout_head.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/head.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/layout_layout_g_login.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/layout_g_login.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_headerback.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/headerback.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_background.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/background.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_insta.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/insta.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_git.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/git.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/menu_menv.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/menu/menv.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/menu_menusmain.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/menu/menusmain.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_backsheet.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/backsheet.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_linkedin.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/linkedin.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_plus.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/plus.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/menu_operations.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/menu/operations.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/layout_bottomsheetlayout.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/bottomsheetlayout.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/layout_memeslayout.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/memeslayout.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/drawable_borders.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/drawable/borders.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.memehouse.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
